@@ -10,8 +10,8 @@ export default function Navbar() {
               className="px-20"
             />
           </div>
-          <nav className="bg-[#232323] px-6 py-2 rounded-4xl">
-            <ul className="nav-list flex flex-wrap items-center gap-[50px] pt-[18px] pr-[42px] pb-[12px] pl-[52px]">
+          <nav className="bg-[#b2b2b2] px-6 py-2 rounded-4xl">
+            <ul className="nav-list flex flex-wrap items-center gap-[50px] px-4 py-1 text-md">
               <li>
                 <a href="#">Domain</a>
               </li>
